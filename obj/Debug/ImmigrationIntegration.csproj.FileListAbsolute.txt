@@ -1,0 +1,24 @@
+C:\Users\Saleem\source\repos\ImmigrationIntegration\ImmigrationIntegration\bin\Debug\ImmigrationIntegration.exe.config
+C:\Users\Saleem\source\repos\ImmigrationIntegration\ImmigrationIntegration\bin\Debug\ImmigrationIntegration.exe
+C:\Users\Saleem\source\repos\ImmigrationIntegration\ImmigrationIntegration\bin\Debug\ImmigrationIntegration.pdb
+C:\Users\Saleem\source\repos\ImmigrationIntegration\ImmigrationIntegration\obj\Debug\ImmigrationIntegration.csprojAssemblyReference.cache
+C:\Users\Saleem\source\repos\ImmigrationIntegration\ImmigrationIntegration\obj\Debug\ImmigrationIntegration.Form1.resources
+C:\Users\Saleem\source\repos\ImmigrationIntegration\ImmigrationIntegration\obj\Debug\ImmigrationIntegration.Properties.Resources.resources
+C:\Users\Saleem\source\repos\ImmigrationIntegration\ImmigrationIntegration\obj\Debug\ImmigrationIntegration.csproj.GenerateResource.cache
+C:\Users\Saleem\source\repos\ImmigrationIntegration\ImmigrationIntegration\obj\Debug\ImmigrationIntegration.csproj.CoreCompileInputs.cache
+C:\Users\Saleem\source\repos\ImmigrationIntegration\ImmigrationIntegration\obj\Debug\ImmigrationIntegration.exe
+C:\Users\Saleem\source\repos\ImmigrationIntegration\ImmigrationIntegration\obj\Debug\ImmigrationIntegration.pdb
+C:\Users\Saleem\source\repos\ImmigrationIntegration\ImmigrationIntegration\obj\Debug\ImmigrationIntegration.frmimmigrants.resources
+D:\Training\Kids Training\C#\C#.net\ImmigrationIntegration\ImmigrationIntegration\bin\Debug\ImmigrationIntegration.exe.config
+D:\Training\Kids Training\C#\C#.net\ImmigrationIntegration\ImmigrationIntegration\bin\Debug\ImmigrationIntegration.exe
+D:\Training\Kids Training\C#\C#.net\ImmigrationIntegration\ImmigrationIntegration\bin\Debug\ImmigrationIntegration.pdb
+D:\Training\Kids Training\C#\C#.net\ImmigrationIntegration\ImmigrationIntegration\obj\Debug\ImmigrationIntegration.csprojAssemblyReference.cache
+D:\Training\Kids Training\C#\C#.net\ImmigrationIntegration\ImmigrationIntegration\obj\Debug\ImmigrationIntegration.Form1.resources
+D:\Training\Kids Training\C#\C#.net\ImmigrationIntegration\ImmigrationIntegration\obj\Debug\ImmigrationIntegration.frmimmigrants.resources
+D:\Training\Kids Training\C#\C#.net\ImmigrationIntegration\ImmigrationIntegration\obj\Debug\ImmigrationIntegration.Properties.Resources.resources
+D:\Training\Kids Training\C#\C#.net\ImmigrationIntegration\ImmigrationIntegration\obj\Debug\ImmigrationIntegration.csproj.GenerateResource.cache
+D:\Training\Kids Training\C#\C#.net\ImmigrationIntegration\ImmigrationIntegration\obj\Debug\ImmigrationIntegration.csproj.CoreCompileInputs.cache
+D:\Training\Kids Training\C#\C#.net\ImmigrationIntegration\ImmigrationIntegration\obj\Debug\ImmigrationIntegration.exe
+D:\Training\Kids Training\C#\C#.net\ImmigrationIntegration\ImmigrationIntegration\obj\Debug\ImmigrationIntegration.pdb
+D:\Training\Kids Training\C#\C#.net\ImmigrationIntegration\ImmigrationIntegration\obj\Debug\ImmigrationIntegration.Dashbaord.resources
+D:\Training\Kids Training\C#\C#.net\ImmigrationIntegration\ImmigrationIntegration\obj\Debug\ImmigrationIntegration.Members.resources
